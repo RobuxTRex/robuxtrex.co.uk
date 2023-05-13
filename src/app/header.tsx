@@ -1,13 +1,14 @@
 import Image from 'next/image'
+import Link  from 'next/link'
+
+import Logo from './logo.svg'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24 ">
-      <div className="z-10 w-full max-w-5xl items-center justify-between font-montserrat text-sm lg:flex">
-        <div>
-          <h1 className="text-8xl font-black">hi</h1>
-          <h2 className="text-3xl">I am RobuxTRex.</h2>
-        </div>
+    <main className="items-center">
+      <div className="flex text-2xl font-bold">
+        <Image src={Logo} alt="RobuxTRex Logo" />
+        <p className="pt-6 pl-24"><Link href="/">Home</Link></p>
       </div>
     </main>
   )
