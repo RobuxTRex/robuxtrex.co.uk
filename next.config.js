@@ -10,7 +10,7 @@ module.exports = {
             },
             {
                 source: '/vip/pls-donate',
-                destination: 'https://web.roblox.com/games/8737602449?privateServerLinkCode=93197030446730624334551184118810',
+                destination: 'https://www.roblox.com/games/8737602449?privateServerLinkCode=93197030446730624334551184118810',
                 permanent: true,
             },
             {
