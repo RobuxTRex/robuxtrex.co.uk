@@ -39,6 +39,16 @@ module.exports = {
                 permanent: true,
             },
             {
+                source: '/vip/chain',
+                destination: 'https://www.roblox.com/games/10204250851?privateServerLinkCode=60768339969848402304842703409361',
+                permanent: true,
+            },
+            {
+                source: '/socials/youtube',
+                destination: 'https://www.youtube.com/@robuxtrex',
+                permanent: true,
+            },
+            {
                 source: '/giga-chad',
                 destination: 'https://media.tenor.com/epNMHGvRyHcAAAAd/gigachad-chad.gif',
                 permanent: true,
