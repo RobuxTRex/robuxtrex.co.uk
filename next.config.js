@@ -35,7 +35,7 @@ module.exports = {
             },
             {
                 source: '/socials/youtube',
-                destination: 'https://www.youtube.com/@youtube',
+                destination: 'https://www.youtube.com/@robuxtrex',
                 permanent: true,
             },
             {

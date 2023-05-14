@@ -4,7 +4,7 @@ import { Montserrat } from 'next/font/google'
 const inter = Montserrat({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'RobuxTRex`s Official Website',
+  title: `RobuxTRex's Official Website`,
   description: 'The OFFICIAL website for the up-coming social media influencer.',
 }
 
@@ -14,7 +14,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="en" className="bg-gradient-to-b from-black to-gray-800">
       <body className={inter.className}>{children}</body>
     </html>
   )

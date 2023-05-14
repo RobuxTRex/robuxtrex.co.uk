@@ -4,7 +4,7 @@ import { Montserrat } from 'next/font/google'
 const inter = Montserrat({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'RobuxTRex`s Official Website',
+  title: `RobuxTRex's Official Website`,
   description: 'The OFFICIAL website for the up-coming social media influencer.',
 }
 
