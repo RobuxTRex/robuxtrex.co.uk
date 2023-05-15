@@ -7,8 +7,8 @@ export default [
     "Olá!",
     "Kia Ora!",
     "G'day, mate!",
-    "Geia!",
+    "Γειά σου!",
     "Zdravo!",
-    "Privet!",
-    "Nǐ hǎo!",
+    "Привет!",
+    "你好!",
 ]

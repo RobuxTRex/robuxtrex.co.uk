@@ -14,7 +14,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className="bg-gradient-to-b from-black to-gray-800">
+    <html lang="en" className="bg-gradient-to-b from-black to-gray-800 scrollbar scrollbar-thumb-gray-900 scrollbar-track-gray-100">
       <body className={inter.className}>{children}</body>
     </html>
   )
