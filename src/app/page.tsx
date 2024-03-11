@@ -1,7 +1,5 @@
 export const runtime = 'edge'
 
-import 'dotenv/config'
-
 import Image from 'next/image'
 import Link from 'next/link'
 
