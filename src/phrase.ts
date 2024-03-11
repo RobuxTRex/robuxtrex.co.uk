@@ -7,7 +7,6 @@ export default [
     "Eu sou o RobuxTRex!",
     "Ko RobuxTRex ahau!",
     "Mate, I'm RobuxTRex!",
-    "Είμαι το RobuxTRex!",
     "Jaz sem RobuxTRex!",
     "Я РобукТрекс!",
     "我是 RobuxTRex！",

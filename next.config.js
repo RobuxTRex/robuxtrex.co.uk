@@ -49,21 +49,6 @@ module.exports = {
                 permanent: true,
             },
             {
-                source: '/game/last-to-circle',
-                destination: 'https://www.youtube.com/@robuxtrex',
-                permanent: true,
-            },
-            {
-                source: '/socials/youtube',
-                destination: 'https://www.youtube.com/@robuxtrex',
-                permanent: true,
-            },
-            {
-                source: '/socials/youtube',
-                destination: 'https://www.youtube.com/@robuxtrex',
-                permanent: true,
-            },
-            {
                 source: '/giga-chad',
                 destination: 'https://media.tenor.com/epNMHGvRyHcAAAAd/gigachad-chad.gif',
                 permanent: true,
